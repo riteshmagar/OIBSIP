@@ -1,0 +1,1001 @@
+Transaction ID,Date,Customer ID,Gender,Age,Product Category,Product Name,Quantity,Price per Unit,Total Amount
+192,2023-01-01,CUST139,Female,28,Beauty,Lipstick,1,25,25
+478,2023-01-01,CUST196,Male,35,Beauty,Perfume,3,120,360
+792,2023-01-02,CUST193,Female,35,Clothing,Jacket,2,150,300
+690,2023-01-03,CUST485,Male,50,Beauty,Lipstick,3,25,75
+485,2023-01-03,CUST769,Male,30,Beauty,Lipstick,4,25,100
+824,2023-01-04,CUST144,Male,21,Beauty,Shampoo,1,15,15
+396,2023-01-04,CUST625,Female,20,Beauty,Lipstick,1,25,25
+324,2023-01-05,CUST837,Male,49,Beauty,Shampoo,4,15,60
+488,2023-01-05,CUST425,Male,27,Electronics,Power Bank,1,40,40
+491,2023-01-05,CUST823,Female,30,Beauty,Lipstick,1,25,25
+701,2023-01-06,CUST065,Female,45,Electronics,Smartwatch,1,250,250
+86,2023-01-06,CUST301,Male,53,Beauty,Shampoo,3,15,45
+113,2023-01-07,CUST121,Male,26,Clothing,Jeans,1,60,60
+586,2023-01-07,CUST139,Female,53,Beauty,Perfume,1,120,120
+260,2023-01-07,CUST818,Female,55,Electronics,Power Bank,1,40,40
+421,2023-01-07,CUST569,Female,43,Electronics,Smartwatch,3,250,750
+864,2023-01-08,CUST155,Male,28,Beauty,Shampoo,1,15,15
+132,2023-01-08,CUST286,Male,45,Clothing,Jacket,2,150,300
+720,2023-01-08,CUST061,Male,56,Electronics,Smartwatch,1,250,250
+45,2023-01-09,CUST149,Male,39,Electronics,Phone Case,1,12,12
+25,2023-01-09,CUST241,Male,35,Clothing,Sneakers,2,90,180
+549,2023-01-10,CUST288,Male,49,Electronics,Smartwatch,1,250,250
+548,2023-01-11,CUST870,Female,19,Clothing,T-Shirt,2,20,40
+530,2023-01-11,CUST778,Male,50,Electronics,Headphones,1,80,80
+979,2023-01-11,CUST757,Female,33,Beauty,Face Cream,4,35,140
+727,2023-01-11,CUST153,Female,46,Clothing,T-Shirt,4,20,80
+754,2023-01-12,CUST780,Male,64,Electronics,Smartwatch,1,250,250
+69,2023-01-12,CUST600,Female,50,Electronics,Headphones,4,80,320
+641,2023-01-12,CUST394,Female,35,Electronics,Headphones,2,80,160
+425,2023-01-13,CUST624,Male,44,Beauty,Shampoo,2,15,30
+335,2023-01-13,CUST397,Male,37,Beauty,Face Cream,2,35,70
+899,2023-01-13,CUST299,Male,53,Electronics,Phone Case,2,12,24
+545,2023-01-14,CUST481,Male,46,Clothing,Jeans,3,60,180
+958,2023-01-15,CUST789,Male,46,Electronics,Headphones,1,80,80
+653,2023-01-15,CUST819,Female,23,Beauty,Face Cream,3,35,105
+229,2023-01-15,CUST785,Female,30,Electronics,Power Bank,2,40,80
+378,2023-01-15,CUST552,Female,30,Clothing,Sneakers,4,90,360
+866,2023-01-15,CUST820,Male,23,Electronics,Power Bank,2,40,80
+105,2023-01-15,CUST500,Female,48,Beauty,Face Cream,4,35,140
+645,2023-01-16,CUST824,Female,21,Electronics,Phone Case,4,12,48
+637,2023-01-16,CUST424,Male,31,Clothing,Jacket,3,150,450
+771,2023-01-16,CUST199,Male,40,Beauty,Perfume,2,120,240
+169,2023-01-16,CUST309,Male,50,Electronics,Phone Case,4,12,48
+226,2023-01-16,CUST148,Female,40,Electronics,Phone Case,3,12,36
+322,2023-01-17,CUST093,Male,26,Electronics,Headphones,1,80,80
+797,2023-01-18,CUST759,Female,32,Clothing,Jacket,1,150,150
+92,2023-01-18,CUST423,Male,28,Clothing,Jeans,4,60,240
+859,2023-01-19,CUST564,Female,46,Electronics,Power Bank,1,40,40
+931,2023-01-19,CUST052,Female,29,Clothing,T-Shirt,3,20,60
+514,2023-01-19,CUST825,Female,25,Electronics,Headphones,2,80,160
+239,2023-01-20,CUST465,Female,22,Beauty,Lipstick,1,25,25
+136,2023-01-20,CUST793,Female,26,Electronics,Headphones,2,80,160
+200,2023-01-20,CUST496,Female,64,Clothing,Jacket,1,150,150
+874,2023-01-20,CUST527,Male,38,Electronics,Smartwatch,2,250,500
+342,2023-01-21,CUST432,Female,49,Clothing,T-Shirt,1,20,20
+820,2023-01-21,CUST652,Female,48,Clothing,Sneakers,4,90,360
+85,2023-01-22,CUST445,Male,49,Electronics,Smartwatch,4,250,1000
+907,2023-01-22,CUST617,Male,51,Beauty,Shampoo,3,15,45
+521,2023-01-23,CUST039,Female,43,Beauty,Shampoo,4,15,60
+934,2023-01-23,CUST010,Female,51,Clothing,Sneakers,4,90,360
+264,2023-01-23,CUST502,Male,46,Clothing,Sneakers,1,90,90
+231,2023-01-24,CUST041,Female,24,Electronics,Smartwatch,1,250,250
+204,2023-01-24,CUST802,Male,54,Beauty,Perfume,4,120,480
+3,2023-01-25,CUST741,Male,29,Electronics,Smartwatch,3,250,750
+166,2023-01-25,CUST576,Male,23,Clothing,Jeans,2,60,120
+633,2023-01-25,CUST719,Female,39,Electronics,Smartwatch,3,250,750
+522,2023-01-25,CUST339,Male,46,Electronics,Headphones,4,80,320
+949,2023-01-26,CUST898,Male,33,Electronics,Headphones,4,80,320
+953,2023-01-27,CUST577,Female,43,Electronics,Headphones,3,80,240
+370,2023-01-27,CUST172,Female,41,Clothing,Jeans,3,60,180
+293,2023-01-28,CUST153,Male,54,Clothing,Sneakers,1,90,90
+784,2023-01-28,CUST403,Female,43,Beauty,Lipstick,3,25,75
+825,2023-01-28,CUST287,Male,31,Clothing,T-Shirt,3,20,60
+389,2023-01-28,CUST333,Female,20,Electronics,Power Bank,1,40,40
+331,2023-01-28,CUST136,Male,31,Electronics,Phone Case,2,12,24
+594,2023-01-29,CUST349,Female,40,Clothing,Jacket,3,150,450
+152,2023-01-29,CUST812,Female,26,Electronics,Power Bank,4,40,160
+397,2023-01-29,CUST687,Female,51,Beauty,Lipstick,3,25,75
+459,2023-01-29,CUST588,Female,52,Clothing,Jeans,2,60,120
+303,2023-01-29,CUST443,Female,26,Electronics,Power Bank,3,40,120
+964,2023-01-30,CUST748,Male,41,Electronics,Power Bank,3,40,120
+384,2023-01-31,CUST389,Female,48,Clothing,Jacket,4,150,600
+297,2023-01-31,CUST758,Male,49,Beauty,Perfume,4,120,480
+760,2023-01-31,CUST328,Female,44,Beauty,Shampoo,4,15,60
+627,2023-01-31,CUST737,Female,64,Electronics,Phone Case,3,12,36
+325,2023-01-31,CUST874,Female,30,Electronics,Phone Case,3,12,36
+386,2023-02-01,CUST828,Male,26,Clothing,Jacket,2,150,300
+228,2023-02-01,CUST853,Male,46,Beauty,Shampoo,4,15,60
+529,2023-02-01,CUST232,Female,30,Electronics,Power Bank,1,40,40
+93,2023-02-02,CUST263,Female,55,Beauty,Face Cream,2,35,70
+894,2023-02-03,CUST706,Male,21,Electronics,Power Bank,4,40,160
+883,2023-02-03,CUST037,Female,48,Clothing,Jacket,2,150,300
+977,2023-02-03,CUST038,Male,46,Clothing,Jeans,4,60,240
+781,2023-02-03,CUST309,Male,38,Clothing,Sneakers,2,90,180
+368,2023-02-04,CUST410,Female,49,Electronics,Power Bank,4,40,160
+855,2023-02-04,CUST436,Female,38,Electronics,Power Bank,3,40,120
+431,2023-02-04,CUST804,Female,54,Electronics,Phone Case,4,12,48
+753,2023-02-05,CUST286,Female,21,Electronics,Phone Case,3,12,36
+501,2023-02-05,CUST629,Male,50,Electronics,Smartwatch,4,250,1000
+140,2023-02-06,CUST012,Female,44,Clothing,Sneakers,2,90,180
+455,2023-02-06,CUST164,Female,61,Clothing,Sneakers,3,90,270
+531,2023-02-06,CUST630,Female,43,Clothing,Jeans,3,60,180
+654,2023-02-06,CUST238,Male,39,Clothing,T-Shirt,2,20,40
+376,2023-02-06,CUST387,Female,53,Beauty,Shampoo,2,15,30
+357,2023-02-06,CUST837,Male,61,Clothing,T-Shirt,4,20,80
+194,2023-02-06,CUST775,Female,37,Beauty,Face Cream,4,35,140
+968,2023-02-07,CUST269,Male,44,Electronics,Power Bank,3,40,120
+533,2023-02-07,CUST376,Male,32,Electronics,Power Bank,1,40,40
+56,2023-02-07,CUST183,Female,38,Electronics,Headphones,3,80,240
+49,2023-02-08,CUST092,Female,44,Clothing,Sneakers,4,90,360
+144,2023-02-08,CUST095,Female,31,Clothing,Jeans,4,60,240
+498,2023-02-08,CUST426,Female,31,Clothing,T-Shirt,4,20,80
+205,2023-02-08,CUST528,Male,28,Beauty,Lipstick,1,25,25
+719,2023-02-09,CUST053,Female,32,Clothing,Jeans,4,60,240
+537,2023-02-09,CUST436,Male,64,Electronics,Smartwatch,3,250,750
+923,2023-02-09,CUST604,Male,54,Clothing,Jeans,2,60,120
+566,2023-02-09,CUST732,Female,41,Electronics,Power Bank,3,40,120
+828,2023-02-10,CUST300,Female,29,Clothing,T-Shirt,4,20,80
+867,2023-02-10,CUST111,Male,28,Beauty,Face Cream,1,35,35
+555,2023-02-10,CUST469,Male,34,Beauty,Perfume,1,120,120
+367,2023-02-10,CUST529,Female,31,Clothing,T-Shirt,1,20,20
+120,2023-02-10,CUST462,Male,53,Electronics,Power Bank,4,40,160
+68,2023-02-11,CUST898,Female,34,Beauty,Lipstick,4,25,100
+43,2023-02-11,CUST224,Male,26,Clothing,Jacket,4,150,600
+746,2023-02-11,CUST481,Female,48,Beauty,Perfume,4,120,480
+564,2023-02-12,CUST026,Female,55,Electronics,Phone Case,1,12,12
+915,2023-02-12,CUST092,Female,45,Clothing,Jeans,2,60,120
+811,2023-02-12,CUST543,Male,28,Clothing,Sneakers,4,90,360
+40,2023-02-12,CUST724,Male,33,Electronics,Phone Case,1,12,12
+745,2023-02-13,CUST218,Female,45,Electronics,Phone Case,4,12,48
+935,2023-02-14,CUST380,Male,34,Clothing,T-Shirt,1,20,20
+10,2023-02-14,CUST703,Male,32,Electronics,Smartwatch,1,250,250
+961,2023-02-14,CUST417,Female,33,Electronics,Power Bank,1,40,40
+87,2023-02-16,CUST771,Male,52,Electronics,Phone Case,3,12,36
+643,2023-02-16,CUST421,Male,28,Clothing,Jacket,1,150,150
+196,2023-02-16,CUST332,Male,33,Clothing,Jeans,4,60,240
+815,2023-02-17,CUST792,Male,48,Clothing,Jeans,1,60,60
+803,2023-02-18,CUST299,Female,44,Electronics,Headphones,1,80,80
+135,2023-02-19,CUST004,Male,64,Electronics,Smartwatch,3,250,750
+254,2023-02-19,CUST431,Male,43,Clothing,Sneakers,2,90,180
+349,2023-02-20,CUST446,Male,64,Beauty,Shampoo,3,15,45
+903,2023-02-20,CUST747,Male,47,Beauty,Shampoo,1,15,15
+735,2023-02-23,CUST206,Female,42,Clothing,T-Shirt,1,20,20
+543,2023-02-24,CUST206,Male,42,Clothing,T-Shirt,4,20,80
+659,2023-02-25,CUST082,Female,35,Clothing,Jeans,2,60,120
+890,2023-02-25,CUST328,Female,37,Clothing,Jacket,1,150,150
+34,2023-02-26,CUST280,Female,35,Beauty,Lipstick,3,25,75
+44,2023-02-26,CUST535,Male,63,Beauty,Lipstick,2,25,50
+392,2023-02-28,CUST716,Male,41,Clothing,Jeans,4,60,240
+810,2023-02-28,CUST200,Female,43,Clothing,Sneakers,2,90,180
+615,2023-03-01,CUST220,Female,56,Electronics,Headphones,1,80,80
+361,2023-03-01,CUST453,Male,41,Clothing,Jacket,3,150,450
+685,2023-03-01,CUST719,Female,43,Electronics,Phone Case,4,12,48
+326,2023-03-01,CUST553,Female,32,Electronics,Headphones,3,80,240
+296,2023-03-01,CUST421,Male,30,Clothing,T-Shirt,2,20,40
+989,2023-03-02,CUST068,Female,23,Clothing,T-Shirt,1,20,20
+316,2023-03-02,CUST050,Female,38,Beauty,Face Cream,4,35,140
+819,2023-03-02,CUST567,Female,40,Electronics,Power Bank,3,40,120
+484,2023-03-02,CUST135,Female,51,Electronics,Power Bank,2,40,80
+827,2023-03-04,CUST823,Female,20,Electronics,Smartwatch,2,250,500
+840,2023-03-04,CUST495,Female,50,Clothing,Jacket,1,150,150
+560,2023-03-05,CUST397,Female,33,Beauty,Lipstick,4,25,100
+732,2023-03-05,CUST536,Female,41,Clothing,Sneakers,4,90,360
+460,2023-03-05,CUST401,Female,46,Electronics,Phone Case,4,12,48
+215,2023-03-06,CUST289,Male,40,Clothing,Jeans,1,60,60
+624,2023-03-06,CUST310,Male,47,Clothing,Jeans,4,60,240
+726,2023-03-06,CUST389,Male,56,Beauty,Shampoo,3,15,45
+193,2023-03-07,CUST698,Male,37,Clothing,Sneakers,4,90,360
+14,2023-03-07,CUST706,Female,36,Clothing,Jacket,4,150,600
+611,2023-03-08,CUST515,Male,36,Clothing,Sneakers,3,90,270
+983,2023-03-08,CUST009,Female,47,Clothing,Jacket,3,150,450
+363,2023-03-08,CUST871,Female,36,Electronics,Smartwatch,3,250,750
+913,2023-03-08,CUST868,Male,44,Beauty,Perfume,2,120,240
+666,2023-03-09,CUST138,Male,32,Clothing,Sneakers,2,90,180
+423,2023-03-09,CUST394,Male,40,Clothing,T-Shirt,4,20,80
+966,2023-03-09,CUST370,Female,28,Clothing,Jeans,3,60,180
+1000,2023-03-09,CUST784,Male,64,Electronics,Headphones,4,80,320
+702,2023-03-10,CUST138,Male,28,Clothing,Jeans,3,60,180
+253,2023-03-10,CUST477,Female,45,Beauty,Lipstick,3,25,75
+256,2023-03-10,CUST404,Female,32,Electronics,Headphones,2,80,160
+975,2023-03-10,CUST140,Male,18,Beauty,Lipstick,3,25,75
+265,2023-03-10,CUST363,Female,32,Electronics,Power Bank,1,40,40
+801,2023-03-11,CUST599,Female,46,Beauty,Lipstick,2,25,50
+141,2023-03-11,CUST356,Female,44,Electronics,Phone Case,4,12,48
+679,2023-03-11,CUST831,Female,32,Clothing,Sneakers,1,90,90
+346,2023-03-12,CUST028,Male,50,Clothing,T-Shirt,3,20,60
+664,2023-03-12,CUST013,Male,64,Beauty,Face Cream,2,35,70
+734,2023-03-12,CUST013,Male,40,Clothing,Sneakers,2,90,180
+47,2023-03-12,CUST455,Female,31,Clothing,Sneakers,1,90,90
+523,2023-03-13,CUST576,Female,51,Electronics,Smartwatch,4,250,1000
+665,2023-03-13,CUST322,Female,64,Electronics,Smartwatch,3,250,750
+493,2023-03-13,CUST489,Male,33,Beauty,Perfume,3,120,360
+700,2023-03-14,CUST322,Male,53,Electronics,Headphones,3,80,240
+706,2023-03-14,CUST177,Female,30,Beauty,Perfume,1,120,120
+345,2023-03-14,CUST770,Male,34,Beauty,Lipstick,4,25,100
+366,2023-03-14,CUST597,Male,27,Beauty,Face Cream,4,35,140
+149,2023-03-14,CUST679,Female,31,Beauty,Lipstick,1,25,25
+796,2023-03-15,CUST247,Female,45,Beauty,Perfume,1,120,120
+270,2023-03-15,CUST081,Male,19,Electronics,Power Bank,2,40,80
+127,2023-03-15,CUST043,Male,44,Beauty,Shampoo,1,15,15
+379,2023-03-15,CUST195,Female,44,Clothing,Jacket,2,150,300
+621,2023-03-15,CUST653,Female,52,Beauty,Lipstick,1,25,25
+6,2023-03-15,CUST871,Male,30,Electronics,Smartwatch,2,250,500
+526,2023-03-15,CUST644,Female,32,Beauty,Face Cream,1,35,35
+110,2023-03-15,CUST532,Male,37,Beauty,Shampoo,4,15,60
+244,2023-03-15,CUST206,Female,50,Clothing,Sneakers,4,90,360
+836,2023-03-16,CUST473,Female,56,Beauty,Perfume,4,120,480
+906,2023-03-16,CUST839,Female,46,Beauty,Perfume,3,120,360
+519,2023-03-17,CUST300,Male,59,Beauty,Perfume,1,120,120
+924,2023-03-17,CUST840,Male,28,Beauty,Perfume,1,120,120
+873,2023-03-17,CUST789,Female,33,Electronics,Phone Case,2,12,24
+515,2023-03-18,CUST352,Male,33,Beauty,Lipstick,4,25,100
+373,2023-03-18,CUST055,Male,41,Beauty,Perfume,2,120,240
+536,2023-03-18,CUST626,Male,44,Electronics,Smartwatch,3,250,750
+429,2023-03-18,CUST834,Male,18,Beauty,Face Cream,1,35,35
+948,2023-03-19,CUST496,Female,30,Electronics,Power Bank,1,40,40
+252,2023-03-19,CUST246,Male,22,Electronics,Phone Case,1,12,12
+965,2023-03-20,CUST645,Female,44,Electronics,Phone Case,2,12,24
+699,2023-03-20,CUST676,Male,48,Electronics,Power Bank,2,40,80
+805,2023-03-20,CUST125,Female,38,Clothing,Jacket,4,150,600
+660,2023-03-20,CUST131,Female,59,Electronics,Phone Case,1,12,12
+871,2023-03-20,CUST236,Male,36,Clothing,Sneakers,3,90,270
+718,2023-03-20,CUST742,Female,64,Clothing,Jacket,1,150,150
+481,2023-03-21,CUST550,Female,29,Clothing,Jacket,4,150,600
+310,2023-03-21,CUST475,Female,18,Electronics,Headphones,4,80,320
+318,2023-03-21,CUST161,Female,36,Beauty,Shampoo,1,15,15
+631,2023-03-22,CUST701,Male,39,Electronics,Smartwatch,1,250,250
+207,2023-03-22,CUST050,Male,44,Clothing,T-Shirt,3,20,60
+456,2023-03-22,CUST158,Female,53,Electronics,Phone Case,4,12,48
+122,2023-03-22,CUST101,Male,54,Beauty,Perfume,3,120,360
+909,2023-03-23,CUST851,Male,47,Beauty,Shampoo,1,15,15
+826,2023-03-23,CUST786,Female,37,Clothing,Jacket,2,150,300
+606,2023-03-24,CUST351,Male,62,Clothing,T-Shirt,2,20,40
+415,2023-03-24,CUST831,Female,48,Beauty,Perfume,3,120,360
+276,2023-03-24,CUST032,Male,41,Clothing,Jeans,4,60,240
+268,2023-03-25,CUST699,Female,40,Beauty,Perfume,4,120,480
+851,2023-03-25,CUST499,Female,44,Clothing,Jeans,2,60,120
+765,2023-03-26,CUST587,Female,21,Electronics,Smartwatch,4,250,1000
+131,2023-03-26,CUST732,Male,49,Clothing,Jacket,3,150,450
+182,2023-03-27,CUST261,Male,46,Electronics,Phone Case,2,12,24
+598,2023-03-27,CUST395,Male,40,Electronics,Headphones,3,80,240
+970,2023-03-27,CUST511,Male,43,Beauty,Shampoo,4,15,60
+640,2023-03-27,CUST250,Male,40,Clothing,Jacket,3,150,450
+893,2023-03-27,CUST231,Female,63,Electronics,Smartwatch,4,250,1000
+328,2023-03-27,CUST873,Female,52,Clothing,Sneakers,1,90,90
+479,2023-03-28,CUST085,Female,50,Beauty,Face Cream,3,35,105
+470,2023-03-28,CUST419,Male,31,Electronics,Headphones,3,80,240
+588,2023-03-29,CUST274,Female,51,Beauty,Face Cream,4,35,140
+829,2023-03-29,CUST770,Female,23,Beauty,Lipstick,3,25,75
+599,2023-03-30,CUST004,Male,20,Electronics,Power Bank,1,40,40
+628,2023-03-30,CUST866,Male,57,Electronics,Headphones,4,80,320
+246,2023-03-31,CUST431,Male,45,Clothing,Jacket,3,150,450
+567,2023-04-01,CUST121,Female,37,Electronics,Power Bank,2,40,80
+289,2023-04-01,CUST195,Female,34,Electronics,Smartwatch,1,250,250
+742,2023-04-02,CUST137,Male,33,Beauty,Perfume,4,120,480
+868,2023-04-03,CUST399,Male,41,Clothing,Sneakers,1,90,90
+301,2023-04-03,CUST079,Male,29,Clothing,Jeans,3,60,180
+352,2023-04-04,CUST835,Male,36,Beauty,Face Cream,1,35,35
+446,2023-04-04,CUST139,Female,38,Electronics,Smartwatch,3,250,750
+71,2023-04-04,CUST005,Male,18,Beauty,Face Cream,4,35,140
+181,2023-04-04,CUST689,Female,64,Electronics,Power Bank,2,40,80
+116,2023-04-05,CUST669,Female,44,Clothing,Sneakers,2,90,180
+724,2023-04-05,CUST857,Male,18,Electronics,Power Bank,3,40,120
+32,2023-04-05,CUST086,Female,43,Clothing,Sneakers,4,90,360
+148,2023-04-06,CUST147,Female,18,Beauty,Lipstick,4,25,100
+158,2023-04-06,CUST788,Male,47,Electronics,Phone Case,1,12,12
+865,2023-04-06,CUST837,Male,28,Beauty,Lipstick,2,25,50
+570,2023-04-07,CUST740,Female,36,Electronics,Smartwatch,4,250,1000
+885,2023-04-07,CUST394,Male,37,Electronics,Power Bank,3,40,120
+984,2023-04-07,CUST736,Female,35,Electronics,Phone Case,4,12,48
+336,2023-04-07,CUST337,Female,18,Clothing,Jeans,1,60,60
+477,2023-04-08,CUST033,Female,18,Electronics,Headphones,1,80,80
+755,2023-04-09,CUST445,Male,45,Electronics,Phone Case,4,12,48
+972,2023-04-09,CUST739,Female,42,Beauty,Shampoo,3,15,45
+161,2023-04-09,CUST858,Male,48,Clothing,Sneakers,1,90,90
+971,2023-04-09,CUST707,Female,21,Beauty,Perfume,1,120,120
+940,2023-04-11,CUST476,Male,31,Beauty,Lipstick,3,25,75
+716,2023-04-11,CUST846,Female,44,Clothing,Sneakers,4,90,360
+216,2023-04-11,CUST351,Male,35,Electronics,Power Bank,4,40,160
+642,2023-04-11,CUST310,Female,29,Electronics,Headphones,3,80,240
+672,2023-04-14,CUST833,Male,40,Beauty,Shampoo,1,15,15
+156,2023-04-14,CUST848,Male,38,Beauty,Shampoo,1,15,15
+359,2023-04-14,CUST249,Male,47,Beauty,Perfume,2,120,240
+898,2023-04-15,CUST320,Male,28,Electronics,Phone Case,4,12,48
+434,2023-04-16,CUST798,Female,18,Clothing,Jeans,4,60,240
+508,2023-04-16,CUST446,Female,43,Clothing,Sneakers,1,90,90
+807,2023-04-16,CUST021,Male,39,Clothing,Jacket,4,150,600
+518,2023-04-17,CUST570,Male,34,Clothing,Jeans,2,60,120
+731,2023-04-17,CUST701,Female,62,Beauty,Perfume,1,120,120
+257,2023-04-17,CUST353,Male,40,Clothing,Jeans,2,60,120
+18,2023-04-17,CUST873,Female,50,Beauty,Perfume,2,120,240
+981,2023-04-17,CUST121,Female,64,Beauty,Perfume,3,120,360
+454,2023-04-17,CUST003,Male,49,Electronics,Power Bank,2,40,80
+658,2023-04-17,CUST357,Male,41,Beauty,Face Cream,3,35,105
+274,2023-04-17,CUST717,Female,36,Beauty,Face Cream,2,35,70
+315,2023-04-18,CUST020,Male,32,Clothing,T-Shirt,3,20,60
+839,2023-04-18,CUST380,Female,63,Beauty,Perfume,4,120,480
+553,2023-04-18,CUST764,Female,22,Clothing,T-Shirt,4,20,80
+793,2023-04-18,CUST006,Male,28,Clothing,Sneakers,1,90,90
+495,2023-04-19,CUST640,Female,40,Electronics,Phone Case,3,12,36
+601,2023-04-19,CUST144,Male,23,Clothing,Jeans,3,60,180
+691,2023-04-20,CUST064,Male,32,Electronics,Headphones,3,80,240
+639,2023-04-21,CUST458,Female,46,Electronics,Power Bank,1,40,40
+175,2023-04-21,CUST602,Male,37,Beauty,Perfume,1,120,120
+233,2023-04-22,CUST057,Female,52,Clothing,Sneakers,1,90,90
+818,2023-04-22,CUST308,Male,64,Clothing,T-Shirt,3,20,60
+990,2023-04-22,CUST280,Female,64,Clothing,T-Shirt,4,20,80
+334,2023-04-22,CUST128,Male,31,Clothing,Jeans,1,60,60
+974,2023-04-23,CUST644,Male,58,Electronics,Smartwatch,3,250,750
+938,2023-04-23,CUST796,Male,51,Beauty,Perfume,2,120,240
+102,2023-04-23,CUST498,Female,61,Clothing,Jacket,4,150,600
+8,2023-04-23,CUST282,Female,44,Electronics,Headphones,2,80,160
+921,2023-04-23,CUST875,Female,48,Beauty,Face Cream,2,35,70
+55,2023-04-23,CUST588,Female,37,Electronics,Smartwatch,3,250,750
+575,2023-04-23,CUST713,Male,32,Beauty,Face Cream,1,35,35
+439,2023-04-24,CUST645,Female,45,Beauty,Shampoo,4,15,60
+982,2023-04-25,CUST536,Female,37,Beauty,Shampoo,4,15,60
+870,2023-04-25,CUST097,Male,51,Beauty,Lipstick,1,25,25
+881,2023-04-25,CUST302,Male,40,Electronics,Phone Case,4,12,48
+111,2023-04-26,CUST308,Female,50,Beauty,Shampoo,4,15,60
+298,2023-04-26,CUST277,Male,30,Electronics,Headphones,4,80,320
+693,2023-04-26,CUST414,Female,30,Clothing,Jacket,4,150,600
+400,2023-04-27,CUST804,Female,18,Electronics,Smartwatch,3,250,750
+750,2023-04-27,CUST110,Male,39,Electronics,Power Bank,2,40,80
+887,2023-04-27,CUST306,Male,56,Beauty,Perfume,3,120,360
+737,2023-04-28,CUST511,Female,54,Clothing,T-Shirt,2,20,40
+230,2023-04-28,CUST895,Female,45,Clothing,Jeans,3,60,180
+319,2023-04-28,CUST653,Female,27,Electronics,Headphones,2,80,160
+922,2023-04-29,CUST316,Male,38,Beauty,Lipstick,4,25,100
+850,2023-04-30,CUST691,Male,41,Clothing,Sneakers,3,90,270
+650,2023-04-30,CUST428,Female,40,Clothing,T-Shirt,2,20,40
+917,2023-04-30,CUST387,Female,44,Beauty,Face Cream,4,35,140
+541,2023-05-01,CUST441,Male,28,Beauty,Perfume,1,120,120
+678,2023-05-01,CUST406,Male,46,Beauty,Perfume,3,120,360
+381,2023-05-01,CUST264,Female,30,Beauty,Lipstick,3,25,75
+551,2023-05-02,CUST058,Female,55,Beauty,Lipstick,1,25,25
+121,2023-05-02,CUST222,Male,29,Beauty,Face Cream,3,35,105
+84,2023-05-03,CUST829,Female,38,Electronics,Headphones,4,80,320
+785,2023-05-04,CUST724,Male,64,Clothing,Jacket,2,150,300
+206,2023-05-05,CUST381,Male,39,Beauty,Face Cream,4,35,140
+190,2023-05-05,CUST709,Female,30,Clothing,Jeans,2,60,120
+663,2023-05-06,CUST897,Female,45,Electronics,Smartwatch,1,250,250
+950,2023-05-06,CUST800,Female,41,Beauty,Shampoo,3,15,45
+383,2023-05-06,CUST681,Male,18,Electronics,Smartwatch,2,250,500
+538,2023-05-06,CUST120,Female,48,Beauty,Face Cream,2,35,70
+680,2023-05-06,CUST689,Female,24,Beauty,Shampoo,1,15,15
+394,2023-05-07,CUST377,Male,37,Beauty,Perfume,2,120,240
+925,2023-05-07,CUST134,Male,40,Electronics,Headphones,4,80,320
+596,2023-05-07,CUST436,Female,46,Clothing,T-Shirt,4,20,80
+313,2023-05-08,CUST574,Male,60,Clothing,Jacket,2,150,300
+466,2023-05-08,CUST056,Female,30,Clothing,Jacket,1,150,150
+858,2023-05-09,CUST661,Male,58,Electronics,Smartwatch,1,250,250
+969,2023-05-09,CUST462,Male,48,Electronics,Power Bank,2,40,80
+973,2023-05-09,CUST028,Female,18,Clothing,Jacket,3,150,450
+524,2023-05-09,CUST539,Male,54,Beauty,Face Cream,1,35,35
+572,2023-05-10,CUST170,Male,24,Beauty,Perfume,4,120,480
+568,2023-05-12,CUST709,Male,62,Clothing,T-Shirt,4,20,80
+172,2023-05-12,CUST459,Female,51,Electronics,Phone Case,3,12,36
+164,2023-05-12,CUST138,Female,25,Clothing,Sneakers,1,90,90
+882,2023-05-13,CUST254,Male,40,Beauty,Perfume,3,120,360
+348,2023-05-13,CUST768,Female,47,Clothing,T-Shirt,4,20,80
+227,2023-05-13,CUST471,Male,39,Clothing,Sneakers,1,90,90
+558,2023-05-14,CUST433,Female,33,Clothing,Sneakers,2,90,180
+910,2023-05-15,CUST516,Female,38,Clothing,Jacket,1,150,150
+452,2023-05-17,CUST011,Female,38,Electronics,Smartwatch,4,250,1000
+557,2023-05-17,CUST105,Male,53,Beauty,Shampoo,2,15,30
+841,2023-05-18,CUST131,Female,38,Clothing,Jeans,3,60,180
+941,2023-05-19,CUST592,Female,29,Electronics,Smartwatch,4,250,1000
+62,2023-05-20,CUST301,Female,44,Electronics,Phone Case,2,12,24
+993,2023-05-21,CUST486,Female,50,Clothing,T-Shirt,3,20,60
+919,2023-05-22,CUST756,Female,44,Clothing,Jeans,3,60,180
+736,2023-05-22,CUST027,Male,47,Beauty,Lipstick,4,25,100
+48,2023-05-23,CUST225,Female,46,Beauty,Face Cream,1,35,35
+222,2023-05-23,CUST771,Male,28,Electronics,Power Bank,4,40,160
+64,2023-05-24,CUST498,Female,43,Electronics,Headphones,2,80,160
+503,2023-05-25,CUST128,Male,64,Clothing,Jeans,3,60,180
+877,2023-05-25,CUST659,Female,32,Beauty,Shampoo,4,15,60
+242,2023-05-25,CUST082,Male,53,Clothing,T-Shirt,4,20,80
+329,2023-05-25,CUST849,Female,23,Clothing,Jacket,4,150,600
+688,2023-05-26,CUST717,Male,33,Electronics,Headphones,1,80,80
+413,2023-05-26,CUST212,Male,54,Clothing,Sneakers,4,90,360
+952,2023-05-26,CUST858,Female,49,Beauty,Lipstick,4,25,100
+954,2023-05-26,CUST859,Female,51,Beauty,Perfume,1,120,120
+63,2023-05-26,CUST142,Male,53,Clothing,Jeans,2,60,120
+284,2023-05-26,CUST372,Female,44,Beauty,Shampoo,4,15,60
+236,2023-05-27,CUST875,Female,18,Electronics,Headphones,2,80,160
+860,2023-05-27,CUST004,Female,37,Beauty,Shampoo,3,15,45
+353,2023-05-27,CUST030,Male,24,Beauty,Perfume,2,120,240
+936,2023-05-29,CUST237,Female,34,Electronics,Phone Case,3,12,36
+804,2023-05-30,CUST792,Male,44,Beauty,Face Cream,2,35,70
+670,2023-05-30,CUST320,Female,37,Clothing,T-Shirt,1,20,20
+147,2023-05-30,CUST842,Male,52,Clothing,Jacket,2,150,300
+985,2023-05-30,CUST225,Male,43,Clothing,Jacket,1,150,150
+441,2023-05-30,CUST733,Female,30,Clothing,T-Shirt,4,20,80
+556,2023-05-30,CUST605,Female,55,Clothing,Jeans,4,60,240
+442,2023-05-30,CUST096,Male,59,Clothing,Jacket,2,150,300
+46,2023-05-30,CUST158,Male,47,Beauty,Face Cream,3,35,105
+448,2023-05-30,CUST788,Male,56,Electronics,Smartwatch,1,250,250
+453,2023-05-30,CUST152,Female,35,Clothing,Jeans,1,60,60
+962,2023-05-31,CUST563,Female,45,Electronics,Headphones,3,80,240
+426,2023-05-31,CUST611,Female,45,Clothing,Jacket,3,150,450
+287,2023-05-31,CUST050,Male,34,Clothing,Jeans,1,60,60
+837,2023-05-31,CUST687,Male,36,Electronics,Power Bank,2,40,80
+748,2023-05-31,CUST410,Female,24,Beauty,Shampoo,1,15,15
+232,2023-05-31,CUST141,Female,34,Electronics,Power Bank,3,40,120
+138,2023-05-31,CUST787,Male,30,Beauty,Perfume,3,120,360
+647,2023-06-01,CUST471,Female,18,Clothing,Jacket,2,150,300
+779,2023-06-01,CUST425,Male,34,Electronics,Headphones,4,80,320
+177,2023-06-01,CUST230,Female,54,Clothing,Jacket,4,150,600
+414,2023-06-02,CUST723,Male,19,Electronics,Power Bank,4,40,160
+108,2023-06-02,CUST005,Female,32,Electronics,Smartwatch,1,250,250
+430,2023-06-02,CUST401,Male,33,Beauty,Shampoo,2,15,30
+78,2023-06-03,CUST585,Female,45,Electronics,Smartwatch,3,250,750
+710,2023-06-03,CUST727,Female,34,Clothing,T-Shirt,1,20,20
+692,2023-06-03,CUST357,Female,18,Electronics,Smartwatch,1,250,250
+12,2023-06-04,CUST274,Male,34,Clothing,Sneakers,1,90,90
+146,2023-06-05,CUST356,Male,64,Electronics,Phone Case,3,12,36
+844,2023-06-06,CUST524,Male,44,Beauty,Lipstick,4,25,100
+911,2023-06-06,CUST796,Female,39,Clothing,T-Shirt,1,20,20
+603,2023-06-07,CUST171,Male,54,Electronics,Headphones,3,80,240
+689,2023-06-07,CUST230,Male,33,Clothing,Jeans,2,60,120
+857,2023-06-07,CUST272,Female,26,Clothing,T-Shirt,1,20,20
+52,2023-06-08,CUST576,Male,36,Clothing,Jacket,2,150,300
+644,2023-06-08,CUST372,Male,64,Electronics,Phone Case,1,12,12
+607,2023-06-08,CUST183,Male,51,Clothing,Jacket,1,150,150
+489,2023-06-08,CUST201,Female,30,Electronics,Power Bank,2,40,80
+939,2023-06-08,CUST821,Female,38,Beauty,Shampoo,3,15,45
+546,2023-06-09,CUST085,Male,41,Beauty,Face Cream,3,35,105
+943,2023-06-09,CUST781,Male,45,Clothing,Sneakers,3,90,270
+139,2023-06-09,CUST654,Female,39,Electronics,Phone Case,4,12,48
+360,2023-06-11,CUST383,Female,42,Clothing,Sneakers,4,90,360
+799,2023-06-12,CUST466,Female,39,Clothing,T-Shirt,4,20,80
+79,2023-06-12,CUST108,Male,43,Clothing,T-Shirt,2,20,40
+614,2023-06-13,CUST382,Male,33,Electronics,Power Bank,1,40,40
+618,2023-06-13,CUST428,Female,38,Electronics,Phone Case,4,12,48
+577,2023-06-14,CUST403,Female,48,Clothing,Jacket,3,150,450
+585,2023-06-14,CUST782,Male,41,Clothing,Jacket,3,150,450
+305,2023-06-14,CUST163,Male,19,Clothing,Jacket,1,150,150
+267,2023-06-14,CUST249,Female,43,Beauty,Perfume,2,120,240
+798,2023-06-15,CUST734,Female,38,Clothing,Jeans,3,60,180
+468,2023-06-15,CUST026,Female,42,Beauty,Lipstick,3,25,75
+937,2023-06-15,CUST706,Male,20,Electronics,Phone Case,1,12,12
+472,2023-06-16,CUST335,Male,34,Beauty,Shampoo,2,15,30
+833,2023-06-16,CUST263,Female,48,Beauty,Face Cream,3,35,105
+932,2023-06-17,CUST259,Female,41,Electronics,Power Bank,1,40,40
+661,2023-06-17,CUST126,Female,35,Beauty,Shampoo,1,15,15
+916,2023-06-18,CUST159,Male,37,Electronics,Phone Case,3,12,36
+808,2023-06-18,CUST596,Male,27,Electronics,Power Bank,1,40,40
+178,2023-06-18,CUST021,Male,40,Electronics,Phone Case,3,12,36
+812,2023-06-18,CUST355,Female,64,Electronics,Power Bank,2,40,80
+237,2023-06-19,CUST353,Male,26,Clothing,T-Shirt,4,20,80
+509,2023-06-19,CUST398,Male,40,Clothing,Sneakers,2,90,180
+300,2023-06-19,CUST625,Female,32,Beauty,Lipstick,1,25,25
+593,2023-06-19,CUST277,Female,37,Electronics,Headphones,2,80,160
+344,2023-06-20,CUST875,Male,40,Clothing,Sneakers,4,90,360
+769,2023-06-20,CUST298,Male,39,Electronics,Power Bank,2,40,80
+295,2023-06-20,CUST794,Female,38,Clothing,Jeans,3,60,180
+673,2023-06-20,CUST646,Female,53,Clothing,T-Shirt,3,20,60
+667,2023-06-22,CUST039,Female,49,Electronics,Phone Case,2,12,24
+369,2023-06-22,CUST837,Female,32,Beauty,Shampoo,2,15,30
+774,2023-06-23,CUST517,Male,32,Beauty,Perfume,4,120,480
+432,2023-06-23,CUST849,Female,46,Clothing,Sneakers,3,90,270
+250,2023-06-24,CUST383,Female,41,Clothing,Jacket,3,150,450
+738,2023-06-24,CUST284,Female,37,Beauty,Lipstick,1,25,25
+772,2023-06-26,CUST896,Female,54,Beauty,Shampoo,2,15,30
+51,2023-06-26,CUST122,Female,42,Electronics,Phone Case,4,12,48
+806,2023-06-26,CUST726,Male,30,Electronics,Headphones,4,80,320
+273,2023-06-26,CUST089,Male,22,Electronics,Power Bank,1,40,40
+225,2023-06-26,CUST274,Female,38,Beauty,Shampoo,3,15,45
+162,2023-06-26,CUST108,Female,52,Beauty,Lipstick,3,25,75
+662,2023-06-27,CUST211,Male,27,Clothing,T-Shirt,1,20,20
+766,2023-06-27,CUST876,Female,50,Beauty,Face Cream,3,35,105
+347,2023-06-27,CUST238,Male,49,Electronics,Smartwatch,3,250,750
+59,2023-06-27,CUST555,Male,56,Beauty,Shampoo,3,15,45
+219,2023-06-27,CUST024,Female,18,Clothing,T-Shirt,2,20,40
+714,2023-06-29,CUST401,Female,45,Clothing,T-Shirt,3,20,60
+168,2023-06-30,CUST654,Male,35,Clothing,Jeans,3,60,180
+542,2023-07-01,CUST039,Male,28,Clothing,T-Shirt,1,20,20
+247,2023-07-01,CUST046,Female,60,Clothing,Jacket,4,150,600
+852,2023-07-01,CUST879,Male,51,Electronics,Phone Case,1,12,12
+23,2023-07-03,CUST313,Female,38,Clothing,Jeans,4,60,240
+95,2023-07-03,CUST330,Female,49,Beauty,Shampoo,4,15,60
+592,2023-07-03,CUST167,Female,58,Electronics,Power Bank,4,40,160
+684,2023-07-04,CUST242,Female,20,Electronics,Smartwatch,2,250,500
+37,2023-07-06,CUST112,Female,34,Beauty,Lipstick,2,25,50
+547,2023-07-07,CUST391,Male,23,Beauty,Face Cream,3,35,105
+159,2023-07-07,CUST847,Female,33,Beauty,Face Cream,3,35,105
+795,2023-07-07,CUST288,Female,39,Electronics,Headphones,3,80,240
+955,2023-07-08,CUST678,Male,64,Electronics,Smartwatch,1,250,250
+21,2023-07-08,CUST585,Male,43,Clothing,T-Shirt,1,20,20
+579,2023-07-09,CUST507,Female,62,Electronics,Power Bank,1,40,40
+387,2023-07-09,CUST888,Male,64,Beauty,Lipstick,3,25,75
+187,2023-07-10,CUST750,Male,37,Beauty,Shampoo,3,15,45
+683,2023-07-10,CUST467,Male,53,Electronics,Smartwatch,4,250,1000
+996,2023-07-10,CUST737,Male,47,Electronics,Smartwatch,1,250,250
+15,2023-07-11,CUST082,Female,47,Beauty,Face Cream,1,35,35
+790,2023-07-11,CUST374,Female,33,Clothing,Jeans,4,60,240
+451,2023-07-11,CUST225,Male,57,Beauty,Lipstick,1,25,25
+842,2023-07-12,CUST453,Male,55,Beauty,Face Cream,2,35,70
+591,2023-07-12,CUST834,Female,38,Clothing,Jacket,3,150,450
+280,2023-07-12,CUST260,Male,21,Electronics,Phone Case,3,12,36
+783,2023-07-13,CUST511,Male,64,Electronics,Smartwatch,3,250,750
+528,2023-07-13,CUST037,Female,54,Electronics,Smartwatch,1,250,250
+35,2023-07-13,CUST207,Male,49,Beauty,Face Cream,1,35,35
+134,2023-07-13,CUST114,Male,26,Clothing,T-Shirt,1,20,20
+327,2023-07-14,CUST068,Female,18,Electronics,Phone Case,2,12,24
+422,2023-07-14,CUST528,Female,40,Electronics,Power Bank,1,40,40
+365,2023-07-15,CUST053,Female,53,Electronics,Smartwatch,1,250,250
+767,2023-07-15,CUST259,Male,57,Clothing,Jacket,2,150,300
+749,2023-07-16,CUST169,Female,57,Clothing,Sneakers,3,90,270
+918,2023-07-17,CUST860,Female,18,Beauty,Face Cream,4,35,140
+269,2023-07-17,CUST515,Female,45,Beauty,Shampoo,1,15,15
+809,2023-07-18,CUST391,Male,64,Clothing,Jeans,3,60,180
+332,2023-07-18,CUST679,Male,18,Clothing,Sneakers,4,90,360
+722,2023-07-18,CUST658,Female,43,Beauty,Shampoo,4,15,60
+411,2023-07-18,CUST305,Male,18,Clothing,Jeans,3,60,180
+475,2023-07-20,CUST595,Male,49,Electronics,Smartwatch,2,250,500
+89,2023-07-20,CUST350,Female,39,Electronics,Power Bank,1,40,40
+290,2023-07-22,CUST863,Female,42,Beauty,Lipstick,3,25,75
+861,2023-07-22,CUST607,Male,28,Beauty,Face Cream,1,35,35
+648,2023-07-22,CUST174,Male,37,Beauty,Shampoo,3,15,45
+54,2023-07-24,CUST854,Female,63,Beauty,Perfume,2,120,240
+604,2023-07-24,CUST056,Female,18,Clothing,Jeans,4,60,240
+372,2023-07-25,CUST789,Male,34,Electronics,Smartwatch,2,250,500
+240,2023-07-25,CUST057,Male,50,Beauty,Perfume,4,120,480
+401,2023-07-25,CUST839,Female,28,Clothing,Jacket,2,150,300
+408,2023-07-25,CUST649,Female,31,Electronics,Phone Case,3,12,36
+406,2023-07-26,CUST681,Female,50,Clothing,Jacket,1,150,150
+613,2023-07-27,CUST344,Male,19,Clothing,Jeans,1,60,60
+863,2023-07-27,CUST877,Male,57,Electronics,Headphones,4,80,320
+235,2023-07-27,CUST850,Male,45,Electronics,Smartwatch,3,250,750
+635,2023-07-28,CUST565,Female,34,Electronics,Smartwatch,3,250,750
+944,2023-07-28,CUST063,Male,38,Beauty,Perfume,4,120,480
+496,2023-07-29,CUST546,Male,27,Beauty,Shampoo,1,15,15
+340,2023-07-29,CUST837,Female,35,Clothing,Jeans,2,60,120
+930,2023-07-29,CUST479,Male,37,Clothing,Sneakers,4,90,360
+391,2023-07-29,CUST022,Male,29,Beauty,Lipstick,1,25,25
+497,2023-07-29,CUST550,Female,32,Beauty,Face Cream,2,35,70
+920,2023-07-30,CUST866,Female,51,Beauty,Face Cream,3,35,105
+752,2023-07-30,CUST503,Female,31,Electronics,Headphones,1,80,80
+897,2023-07-31,CUST614,Male,42,Beauty,Shampoo,1,15,15
+715,2023-07-31,CUST898,Male,37,Electronics,Headphones,1,80,80
+540,2023-07-31,CUST722,Female,51,Clothing,Jeans,4,60,240
+11,2023-07-31,CUST424,Female,36,Electronics,Phone Case,3,12,36
+476,2023-08-01,CUST094,Male,53,Clothing,Jacket,2,150,300
+38,2023-08-01,CUST861,Male,31,Electronics,Smartwatch,1,250,250
+539,2023-08-01,CUST507,Female,29,Electronics,Power Bank,1,40,40
+573,2023-08-02,CUST681,Male,21,Electronics,Phone Case,3,12,36
+427,2023-08-02,CUST090,Female,51,Beauty,Shampoo,1,15,15
+171,2023-08-03,CUST853,Male,58,Clothing,Jeans,2,60,120
+436,2023-08-03,CUST206,Female,28,Electronics,Smartwatch,2,250,500
+312,2023-08-03,CUST719,Male,26,Electronics,Phone Case,3,12,36
+364,2023-08-04,CUST526,Male,36,Electronics,Smartwatch,1,250,250
+202,2023-08-04,CUST347,Male,46,Clothing,T-Shirt,2,20,40
+419,2023-08-04,CUST205,Female,30,Beauty,Face Cream,1,35,35
+286,2023-08-04,CUST747,Male,21,Electronics,Power Bank,3,40,120
+220,2023-08-05,CUST708,Male,40,Beauty,Shampoo,2,15,30
+483,2023-08-06,CUST584,Female,48,Clothing,Jacket,4,150,600
+721,2023-08-06,CUST461,Female,41,Beauty,Perfume,1,120,120
+927,2023-08-06,CUST292,Female,63,Clothing,Jacket,4,150,600
+81,2023-08-07,CUST033,Male,64,Clothing,Sneakers,1,90,90
+502,2023-08-07,CUST212,Male,18,Clothing,Jeans,2,60,120
+24,2023-08-07,CUST075,Male,64,Electronics,Headphones,4,80,320
+581,2023-08-07,CUST683,Male,53,Electronics,Phone Case,2,12,24
+677,2023-08-08,CUST158,Male,37,Clothing,Sneakers,3,90,270
+929,2023-08-08,CUST513,Female,28,Beauty,Perfume,2,120,240
+443,2023-08-08,CUST443,Female,38,Beauty,Face Cream,1,35,35
+609,2023-08-09,CUST378,Male,42,Beauty,Lipstick,2,25,50
+19,2023-08-10,CUST813,Male,18,Beauty,Lipstick,2,25,50
+77,2023-08-10,CUST516,Male,58,Clothing,Sneakers,2,90,180
+444,2023-08-11,CUST553,Male,35,Clothing,Jeans,2,60,120
+211,2023-08-12,CUST881,Female,42,Beauty,Perfume,2,120,240
+407,2023-08-12,CUST515,Male,38,Clothing,Sneakers,3,90,270
+154,2023-08-12,CUST149,Male,36,Clothing,Jacket,4,150,600
+740,2023-08-12,CUST595,Female,26,Electronics,Power Bank,1,40,40
+928,2023-08-12,CUST441,Female,49,Beauty,Shampoo,4,15,60
+879,2023-08-12,CUST404,Female,50,Clothing,Jacket,4,150,600
+486,2023-08-13,CUST607,Male,21,Beauty,Face Cream,3,35,105
+80,2023-08-14,CUST572,Male,30,Clothing,Jeans,1,60,60
+725,2023-08-14,CUST594,Female,34,Clothing,Sneakers,2,90,180
+212,2023-08-14,CUST289,Male,61,Beauty,Shampoo,4,15,60
+128,2023-08-14,CUST100,Female,54,Beauty,Face Cream,3,35,105
+58,2023-08-14,CUST705,Female,27,Clothing,Jeans,2,60,120
+856,2023-08-14,CUST196,Male,40,Clothing,Jacket,2,150,300
+492,2023-08-15,CUST823,Female,32,Beauty,Shampoo,1,15,15
+587,2023-08-15,CUST148,Female,50,Clothing,T-Shirt,1,20,20
+889,2023-08-16,CUST592,Female,36,Electronics,Phone Case,4,12,48
+337,2023-08-16,CUST355,Female,41,Clothing,Jeans,3,60,180
+410,2023-08-16,CUST534,Male,22,Beauty,Lipstick,4,25,100
+39,2023-08-17,CUST096,Male,43,Clothing,Sneakers,4,90,360
+137,2023-08-17,CUST266,Female,18,Clothing,T-Shirt,1,20,20
+571,2023-08-17,CUST506,Male,43,Beauty,Face Cream,1,35,35
+395,2023-08-19,CUST226,Male,47,Clothing,Sneakers,4,90,360
+884,2023-08-19,CUST778,Male,38,Clothing,Sneakers,1,90,90
+285,2023-08-21,CUST796,Male,38,Electronics,Smartwatch,2,250,500
+878,2023-08-21,CUST102,Female,29,Beauty,Perfume,2,120,240
+638,2023-08-21,CUST255,Female,38,Electronics,Smartwatch,3,250,750
+223,2023-08-21,CUST730,Male,37,Beauty,Lipstick,4,25,100
+834,2023-08-22,CUST756,Female,41,Electronics,Smartwatch,3,250,750
+511,2023-08-22,CUST652,Female,37,Electronics,Phone Case,2,12,24
+880,2023-08-23,CUST218,Male,64,Electronics,Phone Case,3,12,36
+351,2023-08-23,CUST147,Female,36,Clothing,Jacket,1,150,150
+259,2023-08-23,CUST449,Female,18,Electronics,Smartwatch,4,250,1000
+782,2023-08-23,CUST151,Male,45,Clothing,Jeans,1,60,60
+847,2023-08-24,CUST776,Female,48,Electronics,Power Bank,1,40,40
+711,2023-08-24,CUST261,Female,42,Electronics,Power Bank,2,40,80
+698,2023-08-24,CUST093,Male,51,Beauty,Perfume,1,120,120
+153,2023-08-25,CUST275,Female,18,Beauty,Perfume,4,120,480
+550,2023-08-25,CUST065,Female,34,Clothing,Jeans,3,60,180
+947,2023-08-25,CUST374,Female,20,Clothing,T-Shirt,1,20,20
+208,2023-08-26,CUST837,Male,23,Electronics,Headphones,1,80,80
+636,2023-08-26,CUST296,Female,18,Beauty,Face Cream,2,35,70
+302,2023-08-26,CUST492,Female,24,Electronics,Smartwatch,2,250,500
+107,2023-08-27,CUST666,Female,44,Electronics,Phone Case,1,12,12
+980,2023-08-27,CUST719,Male,39,Beauty,Perfume,3,120,360
+299,2023-08-27,CUST261,Female,63,Clothing,T-Shirt,3,20,60
+768,2023-08-27,CUST845,Female,37,Beauty,Shampoo,1,15,15
+20,2023-08-29,CUST771,Female,34,Beauty,Lipstick,2,25,50
+686,2023-08-29,CUST432,Female,43,Clothing,Sneakers,3,90,270
+869,2023-08-29,CUST824,Male,38,Electronics,Headphones,3,80,240
+632,2023-08-30,CUST161,Male,46,Clothing,Jacket,3,150,450
+16,2023-08-30,CUST627,Male,39,Beauty,Lipstick,2,25,50
+908,2023-08-31,CUST717,Male,42,Electronics,Headphones,1,80,80
+179,2023-08-31,CUST769,Male,53,Electronics,Power Bank,2,40,80
+744,2023-09-01,CUST215,Female,18,Clothing,Sneakers,2,90,180
+248,2023-09-02,CUST740,Female,35,Beauty,Perfume,2,120,240
+65,2023-09-02,CUST646,Female,48,Electronics,Headphones,4,80,320
+462,2023-09-02,CUST234,Male,54,Clothing,T-Shirt,1,20,20
+988,2023-09-03,CUST411,Male,35,Clothing,T-Shirt,2,20,40
+933,2023-09-03,CUST546,Male,28,Electronics,Power Bank,2,40,80
+506,2023-09-04,CUST403,Female,23,Electronics,Smartwatch,2,250,500
+417,2023-09-04,CUST048,Female,30,Beauty,Perfume,3,120,360
+846,2023-09-04,CUST328,Female,35,Clothing,Jeans,3,60,180
+50,2023-09-04,CUST813,Female,34,Electronics,Power Bank,4,40,160
+516,2023-09-05,CUST685,Female,48,Electronics,Phone Case,2,12,24
+203,2023-09-05,CUST060,Male,23,Electronics,Power Bank,4,40,160
+676,2023-09-06,CUST626,Female,44,Beauty,Shampoo,2,15,30
+461,2023-09-06,CUST799,Male,40,Electronics,Headphones,2,80,160
+559,2023-09-06,CUST537,Male,35,Clothing,Sneakers,3,90,270
+532,2023-09-06,CUST839,Female,46,Beauty,Shampoo,4,15,60
+831,2023-09-07,CUST150,Male,46,Electronics,Phone Case,4,12,48
+892,2023-09-07,CUST131,Female,38,Clothing,Jacket,3,150,450
+471,2023-09-07,CUST417,Female,48,Clothing,Jacket,3,150,450
+119,2023-09-08,CUST709,Male,51,Electronics,Smartwatch,1,250,250
+987,2023-09-08,CUST238,Male,27,Beauty,Lipstick,2,25,50
+630,2023-09-08,CUST293,Male,38,Beauty,Shampoo,3,15,45
+70,2023-09-09,CUST129,Female,51,Beauty,Lipstick,4,25,100
+173,2023-09-09,CUST397,Male,45,Clothing,Jeans,3,60,180
+517,2023-09-09,CUST844,Male,39,Beauty,Face Cream,3,35,105
+743,2023-09-09,CUST251,Female,50,Electronics,Power Bank,2,40,80
+681,2023-09-10,CUST560,Female,37,Clothing,T-Shirt,2,20,40
+214,2023-09-10,CUST297,Male,60,Clothing,Sneakers,2,90,180
+791,2023-09-10,CUST830,Female,31,Clothing,Jeans,2,60,120
+758,2023-09-11,CUST219,Male,33,Electronics,Power Bank,1,40,40
+776,2023-09-11,CUST142,Male,45,Beauty,Shampoo,2,15,30
+13,2023-09-11,CUST211,Male,47,Electronics,Headphones,2,80,160
+170,2023-09-11,CUST804,Female,48,Clothing,Jeans,3,60,180
+31,2023-09-11,CUST805,Female,57,Electronics,Headphones,4,80,320
+186,2023-09-12,CUST125,Female,41,Beauty,Perfume,4,120,480
+646,2023-09-12,CUST765,Female,40,Electronics,Headphones,1,80,80
+405,2023-09-12,CUST291,Female,33,Clothing,Jeans,3,60,180
+830,2023-09-12,CUST425,Male,47,Beauty,Perfume,1,120,120
+9,2023-09-12,CUST126,Male,41,Electronics,Phone Case,4,12,48
+433,2023-09-13,CUST029,Male,64,Electronics,Smartwatch,1,250,250
+992,2023-09-13,CUST199,Female,22,Electronics,Phone Case,1,12,12
+26,2023-09-15,CUST807,Male,27,Electronics,Headphones,1,80,80
+189,2023-09-15,CUST287,Male,48,Electronics,Smartwatch,1,250,250
+458,2023-09-16,CUST794,Female,59,Beauty,Shampoo,3,15,45
+862,2023-09-16,CUST516,Female,32,Electronics,Smartwatch,1,250,250
+602,2023-09-16,CUST752,Female,45,Clothing,T-Shirt,4,20,80
+243,2023-09-16,CUST487,Male,59,Electronics,Headphones,3,80,240
+756,2023-09-17,CUST256,Male,46,Electronics,Smartwatch,1,250,250
+409,2023-09-18,CUST092,Male,36,Clothing,Sneakers,4,90,360
+608,2023-09-18,CUST052,Male,45,Electronics,Phone Case,4,12,48
+802,2023-09-19,CUST709,Female,55,Clothing,Sneakers,2,90,180
+786,2023-09-19,CUST309,Male,27,Electronics,Headphones,3,80,240
+218,2023-09-19,CUST832,Female,41,Clothing,T-Shirt,1,20,20
+125,2023-09-20,CUST235,Male,18,Electronics,Phone Case,2,12,24
+5,2023-09-20,CUST176,Male,45,Electronics,Power Bank,1,40,40
+393,2023-09-20,CUST047,Male,41,Electronics,Power Bank,3,40,120
+562,2023-09-20,CUST780,Female,47,Beauty,Face Cream,1,35,35
+53,2023-09-21,CUST331,Male,36,Beauty,Lipstick,2,25,50
+708,2023-09-21,CUST864,Female,44,Beauty,Shampoo,4,15,60
+88,2023-09-21,CUST863,Female,46,Clothing,Jacket,2,150,300
+770,2023-09-22,CUST245,Female,31,Clothing,Jacket,2,150,300
+994,2023-09-22,CUST341,Female,54,Beauty,Lipstick,1,25,25
+388,2023-09-22,CUST340,Female,44,Clothing,T-Shirt,2,20,40
+896,2023-09-22,CUST391,Male,52,Clothing,T-Shirt,2,20,40
+271,2023-09-23,CUST370,Male,22,Beauty,Shampoo,3,15,45
+330,2023-09-23,CUST218,Female,24,Electronics,Power Bank,2,40,80
+600,2023-09-24,CUST295,Female,39,Electronics,Smartwatch,3,250,750
+467,2023-09-24,CUST166,Male,38,Electronics,Power Bank,4,40,160
+926,2023-09-25,CUST885,Female,20,Beauty,Face Cream,4,35,140
+72,2023-09-25,CUST052,Female,37,Electronics,Headphones,4,80,320
+629,2023-09-25,CUST836,Female,40,Clothing,Jacket,2,150,300
+17,2023-09-26,CUST079,Male,28,Clothing,Sneakers,4,90,360
+563,2023-09-26,CUST851,Male,38,Clothing,Sneakers,1,90,90
+99,2023-09-27,CUST277,Female,40,Clothing,Jeans,2,60,120
+578,2023-09-28,CUST819,Female,51,Electronics,Smartwatch,2,250,500
+997,2023-09-28,CUST769,Female,64,Electronics,Power Bank,4,40,160
+757,2023-09-28,CUST672,Female,23,Beauty,Face Cream,1,35,35
+504,2023-09-29,CUST059,Male,20,Electronics,Smartwatch,4,250,1000
+157,2023-09-30,CUST162,Male,48,Electronics,Phone Case,1,12,12
+75,2023-09-30,CUST050,Female,47,Clothing,Jacket,4,150,600
+449,2023-09-30,CUST620,Female,39,Electronics,Power Bank,4,40,160
+814,2023-09-30,CUST449,Male,45,Electronics,Phone Case,4,12,48
+320,2023-10-01,CUST324,Male,50,Clothing,Sneakers,2,90,180
+126,2023-10-01,CUST298,Female,26,Beauty,Shampoo,2,15,30
+823,2023-10-02,CUST214,Female,18,Beauty,Perfume,2,120,240
+800,2023-10-02,CUST213,Female,51,Beauty,Face Cream,3,35,105
+843,2023-10-03,CUST201,Male,42,Electronics,Phone Case,2,12,24
+404,2023-10-03,CUST623,Female,39,Beauty,Face Cream,4,35,140
+145,2023-10-04,CUST670,Male,64,Beauty,Lipstick,2,25,50
+876,2023-10-04,CUST774,Male,41,Electronics,Power Bank,3,40,120
+282,2023-10-05,CUST471,Male,46,Electronics,Smartwatch,4,250,1000
+403,2023-10-06,CUST179,Female,61,Beauty,Face Cream,4,35,140
+696,2023-10-06,CUST121,Male,25,Beauty,Perfume,1,120,120
+188,2023-10-07,CUST588,Female,56,Electronics,Power Bank,1,40,40
+832,2023-10-07,CUST363,Male,48,Electronics,Power Bank,1,40,40
+682,2023-10-07,CUST276,Female,44,Clothing,Jeans,3,60,180
+963,2023-10-07,CUST545,Female,45,Clothing,Sneakers,3,90,270
+272,2023-10-08,CUST371,Male,44,Electronics,Headphones,1,80,80
+382,2023-10-08,CUST036,Female,31,Beauty,Shampoo,1,15,15
+101,2023-10-09,CUST867,Female,27,Electronics,Smartwatch,1,250,250
+142,2023-10-09,CUST774,Female,25,Beauty,Perfume,2,120,240
+902,2023-10-09,CUST322,Male,42,Clothing,T-Shirt,2,20,40
+281,2023-10-10,CUST356,Female,34,Clothing,Sneakers,1,90,90
+199,2023-10-10,CUST174,Male,36,Electronics,Smartwatch,2,250,500
+83,2023-10-11,CUST389,Female,64,Clothing,T-Shirt,3,20,60
+36,2023-10-11,CUST524,Male,36,Electronics,Power Bank,3,40,120
+163,2023-10-13,CUST479,Male,18,Clothing,Jacket,4,150,600
+288,2023-10-14,CUST046,Female,38,Electronics,Power Bank,4,40,160
+957,2023-10-14,CUST372,Male,18,Clothing,Jacket,2,150,300
+816,2023-10-15,CUST349,Female,29,Clothing,T-Shirt,4,20,80
+255,2023-10-15,CUST635,Male,26,Clothing,Sneakers,4,90,360
+251,2023-10-15,CUST671,Male,55,Beauty,Shampoo,3,15,45
+534,2023-10-15,CUST632,Female,64,Clothing,T-Shirt,1,20,20
+905,2023-10-15,CUST484,Male,41,Clothing,Jacket,3,150,450
+30,2023-10-15,CUST041,Male,24,Beauty,Shampoo,4,15,60
+195,2023-10-16,CUST665,Male,41,Clothing,Jacket,3,150,450
+114,2023-10-16,CUST572,Male,36,Clothing,Sneakers,4,90,360
+623,2023-10-16,CUST181,Male,38,Clothing,Jacket,2,150,300
+942,2023-10-17,CUST465,Female,48,Clothing,T-Shirt,3,20,60
+671,2023-10-17,CUST763,Male,58,Clothing,Sneakers,2,90,180
+730,2023-10-18,CUST589,Male,29,Clothing,T-Shirt,1,20,20
+605,2023-10-18,CUST028,Female,30,Beauty,Shampoo,1,15,15
+354,2023-10-18,CUST296,Male,46,Clothing,Jeans,1,60,60
+619,2023-10-18,CUST720,Female,20,Electronics,Power Bank,3,40,120
+91,2023-10-18,CUST128,Male,35,Electronics,Phone Case,1,12,12
+314,2023-10-19,CUST170,Female,23,Beauty,Lipstick,1,25,25
+616,2023-10-19,CUST604,Male,29,Clothing,T-Shirt,4,20,80
+946,2023-10-19,CUST049,Female,58,Electronics,Phone Case,1,12,12
+474,2023-10-19,CUST343,Male,35,Clothing,Jacket,2,150,300
+845,2023-10-19,CUST375,Female,36,Electronics,Power Bank,2,40,80
+729,2023-10-20,CUST139,Female,31,Clothing,Jacket,1,150,150
+307,2023-10-20,CUST564,Male,37,Beauty,Lipstick,2,25,50
+258,2023-10-21,CUST395,Male,18,Beauty,Face Cream,1,35,35
+380,2023-10-21,CUST634,Male,27,Clothing,Jacket,4,150,600
+385,2023-10-21,CUST163,Male,51,Clothing,T-Shirt,1,20,20
+94,2023-10-21,CUST760,Female,38,Beauty,Perfume,3,120,360
+584,2023-10-22,CUST680,Female,47,Electronics,Power Bank,3,40,120
+151,2023-10-22,CUST446,Male,40,Electronics,Phone Case,2,12,24
+473,2023-10-23,CUST189,Female,54,Beauty,Perfume,1,120,120
+747,2023-10-24,CUST322,Male,28,Beauty,Face Cream,4,35,140
+155,2023-10-24,CUST267,Male,46,Electronics,Phone Case,4,12,48
+374,2023-10-24,CUST565,Male,30,Beauty,Lipstick,3,25,75
+703,2023-10-25,CUST231,Female,33,Clothing,Jeans,3,60,180
+355,2023-10-25,CUST836,Female,34,Electronics,Smartwatch,2,250,500
+294,2023-10-25,CUST067,Male,28,Electronics,Headphones,3,80,240
+106,2023-10-25,CUST044,Male,44,Clothing,Sneakers,3,90,270
+61,2023-10-25,CUST106,Male,45,Beauty,Perfume,2,120,240
+129,2023-10-25,CUST005,Female,64,Electronics,Smartwatch,1,250,250
+499,2023-10-25,CUST535,Male,18,Electronics,Phone Case,1,12,12
+490,2023-10-26,CUST719,Female,40,Clothing,Jacket,1,150,150
+733,2023-10-26,CUST048,Female,45,Clothing,Jacket,2,150,300
+978,2023-10-26,CUST530,Female,29,Electronics,Power Bank,1,40,40
+103,2023-10-26,CUST675,Male,19,Electronics,Power Bank,1,40,40
+787,2023-10-27,CUST119,Female,51,Beauty,Lipstick,1,25,25
+67,2023-10-28,CUST413,Male,46,Beauty,Perfume,4,120,480
+124,2023-10-28,CUST458,Male,20,Beauty,Face Cream,2,35,70
+512,2023-10-28,CUST241,Male,64,Clothing,Sneakers,3,90,270
+143,2023-10-29,CUST342,Female,56,Electronics,Phone Case,3,12,36
+76,2023-10-29,CUST083,Male,27,Beauty,Lipstick,2,25,50
+507,2023-10-29,CUST224,Female,61,Electronics,Power Bank,3,40,120
+821,2023-10-29,CUST886,Female,50,Clothing,Jacket,3,150,450
+338,2023-10-29,CUST464,Male,30,Beauty,Shampoo,1,15,15
+704,2023-10-29,CUST155,Male,64,Beauty,Shampoo,3,15,45
+900,2023-10-30,CUST133,Male,42,Electronics,Smartwatch,2,250,500
+914,2023-10-30,CUST102,Female,36,Clothing,Jacket,2,150,300
+82,2023-10-30,CUST632,Female,43,Clothing,Jacket,2,150,300
+339,2023-10-30,CUST021,Female,42,Electronics,Smartwatch,2,250,500
+675,2023-10-31,CUST634,Male,27,Electronics,Phone Case,1,12,12
+625,2023-10-31,CUST295,Male,27,Electronics,Smartwatch,1,250,250
+104,2023-11-01,CUST887,Male,18,Clothing,Sneakers,2,90,180
+967,2023-11-01,CUST143,Female,64,Clothing,Jeans,3,60,180
+399,2023-11-01,CUST171,Male,50,Beauty,Lipstick,3,25,75
+117,2023-11-01,CUST140,Female,46,Clothing,T-Shirt,3,20,60
+375,2023-11-01,CUST529,Female,37,Clothing,Jeans,4,60,240
+590,2023-11-03,CUST498,Male,37,Electronics,Phone Case,2,12,24
+183,2023-11-03,CUST775,Male,40,Electronics,Smartwatch,2,250,500
+674,2023-11-03,CUST765,Male,35,Electronics,Smartwatch,2,250,500
+57,2023-11-04,CUST077,Female,40,Electronics,Phone Case,4,12,48
+595,2023-11-04,CUST713,Male,58,Electronics,Phone Case,4,12,48
+617,2023-11-04,CUST679,Female,56,Electronics,Phone Case,3,12,36
+445,2023-11-04,CUST425,Female,62,Clothing,T-Shirt,2,20,40
+872,2023-11-04,CUST740,Male,44,Beauty,Shampoo,2,15,30
+695,2023-11-05,CUST115,Female,18,Electronics,Power Bank,4,40,160
+356,2023-11-05,CUST760,Female,51,Electronics,Phone Case,4,12,48
+210,2023-11-05,CUST362,Male,33,Beauty,Face Cream,3,35,105
+713,2023-11-06,CUST076,Male,27,Clothing,T-Shirt,3,20,60
+582,2023-11-06,CUST581,Female,28,Beauty,Shampoo,2,15,30
+321,2023-11-06,CUST396,Female,27,Beauty,Lipstick,4,25,100
+28,2023-11-06,CUST034,Female,64,Beauty,Face Cream,4,35,140
+535,2023-11-07,CUST012,Male,35,Clothing,Jacket,2,150,300
+291,2023-11-07,CUST405,Female,54,Clothing,T-Shirt,4,20,80
+960,2023-11-08,CUST780,Male,20,Clothing,T-Shirt,4,20,80
+266,2023-11-08,CUST239,Female,42,Electronics,Power Bank,3,40,120
+995,2023-11-08,CUST818,Female,40,Electronics,Smartwatch,3,250,750
+580,2023-11-08,CUST003,Female,18,Clothing,Sneakers,1,90,90
+986,2023-11-08,CUST753,Female,55,Electronics,Power Bank,1,40,40
+118,2023-11-08,CUST395,Male,57,Electronics,Phone Case,3,12,36
+649,2023-11-09,CUST602,Female,40,Clothing,Jacket,3,150,450
+279,2023-11-09,CUST398,Female,38,Electronics,Power Bank,3,40,120
+544,2023-11-09,CUST536,Female,54,Electronics,Smartwatch,3,250,750
+494,2023-11-09,CUST586,Male,55,Clothing,T-Shirt,3,20,60
+998,2023-11-10,CUST564,Male,55,Beauty,Face Cream,1,35,35
+438,2023-11-10,CUST469,Male,28,Clothing,Jacket,1,150,150
+904,2023-11-11,CUST737,Female,18,Electronics,Headphones,2,80,160
+66,2023-11-11,CUST530,Female,42,Beauty,Lipstick,2,25,50
+201,2023-11-11,CUST438,Male,28,Clothing,Jeans,4,60,240
+891,2023-11-12,CUST797,Female,31,Electronics,Smartwatch,4,250,1000
+886,2023-11-12,CUST323,Female,50,Beauty,Lipstick,3,25,75
+652,2023-11-12,CUST831,Male,59,Clothing,Jeans,3,60,180
+416,2023-11-12,CUST449,Male,35,Electronics,Phone Case,4,12,48
+7,2023-11-13,CUST429,Male,49,Beauty,Shampoo,2,15,30
+854,2023-11-13,CUST507,Male,55,Clothing,T-Shirt,2,20,40
+418,2023-11-14,CUST378,Male,18,Clothing,Jacket,1,150,150
+390,2023-11-14,CUST260,Female,53,Electronics,Power Bank,4,40,160
+224,2023-11-14,CUST333,Male,25,Clothing,Sneakers,4,90,360
+848,2023-11-14,CUST406,Male,46,Electronics,Headphones,3,80,240
+261,2023-11-14,CUST445,Male,45,Clothing,Jeans,3,60,180
+457,2023-11-14,CUST448,Male,57,Beauty,Perfume,3,120,360
+90,2023-11-15,CUST150,Female,62,Beauty,Shampoo,3,15,45
+634,2023-11-15,CUST352,Male,31,Clothing,Jeans,3,60,180
+853,2023-11-16,CUST451,Male,35,Electronics,Power Bank,1,40,40
+341,2023-11-16,CUST303,Female,39,Beauty,Perfume,2,120,240
+275,2023-11-17,CUST122,Female,47,Beauty,Lipstick,1,25,25
+464,2023-11-17,CUST753,Male,25,Clothing,Jacket,4,150,600
+552,2023-11-17,CUST391,Female,30,Beauty,Perfume,3,120,360
+751,2023-11-18,CUST221,Male,45,Electronics,Power Bank,4,40,160
+96,2023-11-18,CUST767,Female,37,Electronics,Phone Case,3,12,36
+835,2023-11-18,CUST290,Female,34,Clothing,Jeans,1,60,60
+589,2023-11-18,CUST424,Male,64,Clothing,Jacket,1,150,150
+73,2023-11-18,CUST037,Male,58,Electronics,Smartwatch,3,250,750
+717,2023-11-19,CUST003,Female,56,Electronics,Smartwatch,4,250,1000
+705,2023-11-19,CUST429,Female,64,Electronics,Headphones,2,80,160
+109,2023-11-19,CUST605,Male,18,Electronics,Phone Case,2,12,24
+778,2023-11-20,CUST685,Female,45,Beauty,Lipstick,2,25,50
+687,2023-11-20,CUST460,Female,39,Clothing,T-Shirt,3,20,60
+358,2023-11-20,CUST031,Female,34,Electronics,Headphones,3,80,240
+428,2023-11-20,CUST745,Female,18,Electronics,Smartwatch,3,250,750
+912,2023-11-21,CUST282,Female,64,Electronics,Phone Case,2,12,24
+174,2023-11-21,CUST018,Male,59,Electronics,Smartwatch,4,250,1000
+123,2023-11-22,CUST355,Male,40,Clothing,Jeans,1,60,60
+42,2023-11-23,CUST372,Male,55,Clothing,Jeans,3,60,180
+788,2023-11-23,CUST065,Male,27,Beauty,Shampoo,3,15,45
+41,2023-11-23,CUST718,Male,38,Electronics,Smartwatch,3,250,750
+651,2023-11-23,CUST491,Female,44,Clothing,Sneakers,1,90,90
+277,2023-11-23,CUST766,Female,61,Electronics,Phone Case,1,12,12
+377,2023-11-24,CUST114,Female,39,Clothing,T-Shirt,3,20,60
+447,2023-11-25,CUST230,Female,28,Electronics,Headphones,2,80,160
+775,2023-11-25,CUST522,Male,51,Beauty,Lipstick,2,25,50
+262,2023-11-25,CUST203,Female,19,Beauty,Shampoo,4,15,60
+875,2023-11-25,CUST783,Female,61,Clothing,Sneakers,4,90,360
+33,2023-11-25,CUST749,Male,36,Beauty,Face Cream,3,35,105
+817,2023-11-26,CUST829,Male,41,Electronics,Phone Case,2,12,24
+759,2023-11-26,CUST034,Female,53,Electronics,Headphones,2,80,160
+569,2023-11-26,CUST363,Male,48,Electronics,Headphones,1,80,80
+435,2023-11-26,CUST178,Female,60,Clothing,Jeans,4,60,240
+622,2023-11-26,CUST460,Male,29,Electronics,Power Bank,2,40,80
+999,2023-11-26,CUST854,Female,36,Electronics,Phone Case,1,12,12
+610,2023-11-26,CUST550,Male,30,Clothing,Sneakers,4,90,360
+191,2023-11-26,CUST722,Female,37,Electronics,Phone Case,1,12,12
+554,2023-11-27,CUST219,Male,29,Beauty,Face Cream,3,35,105
+655,2023-11-27,CUST168,Male,23,Beauty,Perfume,1,120,120
+597,2023-11-27,CUST079,Male,54,Electronics,Smartwatch,4,250,1000
+773,2023-11-27,CUST723,Male,18,Electronics,Phone Case,4,12,48
+487,2023-11-27,CUST628,Female,47,Clothing,Jeans,3,60,180
+762,2023-11-28,CUST693,Female,46,Electronics,Phone Case,3,12,36
+333,2023-11-28,CUST402,Female,37,Electronics,Headphones,1,80,80
+697,2023-11-28,CUST753,Male,38,Clothing,Jacket,1,150,150
+500,2023-11-29,CUST100,Male,41,Clothing,Jacket,2,150,300
+437,2023-11-29,CUST260,Male,49,Clothing,T-Shirt,2,20,40
+813,2023-11-29,CUST623,Male,24,Beauty,Shampoo,3,15,45
+4,2023-11-30,CUST569,Female,32,Electronics,Smartwatch,4,250,1000
+133,2023-11-30,CUST653,Female,63,Beauty,Shampoo,2,15,30
+723,2023-11-30,CUST165,Male,37,Electronics,Phone Case,1,12,12
+317,2023-11-30,CUST401,Male,59,Clothing,T-Shirt,4,20,80
+951,2023-12-01,CUST269,Male,38,Electronics,Smartwatch,3,250,750
+694,2023-12-02,CUST501,Female,52,Electronics,Headphones,3,80,240
+100,2023-12-03,CUST884,Female,57,Clothing,Jacket,4,150,600
+520,2023-12-03,CUST116,Female,26,Clothing,Jeans,2,60,120
+420,2023-12-03,CUST564,Female,35,Clothing,Sneakers,4,90,360
+668,2023-12-03,CUST650,Male,31,Beauty,Lipstick,2,25,50
+574,2023-12-03,CUST032,Female,37,Beauty,Face Cream,4,35,140
+945,2023-12-03,CUST481,Female,62,Beauty,Face Cream,1,35,35
+669,2023-12-04,CUST853,Female,43,Electronics,Smartwatch,2,250,500
+565,2023-12-04,CUST584,Male,52,Electronics,Smartwatch,3,250,750
+115,2023-12-05,CUST257,Female,18,Clothing,Sneakers,2,90,180
+888,2023-12-06,CUST652,Female,46,Beauty,Shampoo,1,15,15
+728,2023-12-07,CUST289,Male,59,Clothing,Sneakers,4,90,360
+112,2023-12-07,CUST124,Female,18,Clothing,Jacket,2,150,300
+27,2023-12-07,CUST594,Female,42,Beauty,Face Cream,1,35,35
+97,2023-12-08,CUST449,Female,29,Clothing,Jacket,2,150,300
+513,2023-12-08,CUST285,Male,32,Electronics,Phone Case,3,12,36
+292,2023-12-09,CUST521,Male,27,Clothing,Sneakers,4,90,360
+167,2023-12-09,CUST117,Male,39,Clothing,Sneakers,2,90,180
+505,2023-12-09,CUST005,Male,40,Clothing,Sneakers,2,90,180
+764,2023-12-09,CUST164,Male,45,Clothing,T-Shirt,3,20,60
+789,2023-12-09,CUST178,Female,25,Beauty,Perfume,2,120,240
+165,2023-12-09,CUST561,Female,46,Electronics,Phone Case,1,12,12
+323,2023-12-10,CUST410,Male,35,Beauty,Shampoo,4,15,60
+849,2023-12-10,CUST551,Female,33,Beauty,Lipstick,1,25,25
+2,2023-12-10,CUST708,Male,29,Electronics,Phone Case,2,12,24
+98,2023-12-10,CUST160,Male,50,Clothing,Jeans,1,60,60
+901,2023-12-10,CUST840,Female,31,Beauty,Perfume,4,120,480
+22,2023-12-10,CUST131,Male,25,Clothing,Jacket,1,150,150
+60,2023-12-11,CUST688,Female,62,Clothing,Jacket,3,150,450
+343,2023-12-11,CUST240,Female,32,Electronics,Power Bank,2,40,80
+402,2023-12-12,CUST097,Male,35,Clothing,Jeans,1,60,60
+213,2023-12-12,CUST368,Male,41,Clothing,Jacket,4,150,600
+956,2023-12-12,CUST048,Male,46,Beauty,Face Cream,3,35,105
+463,2023-12-13,CUST195,Female,33,Clothing,Jeans,3,60,180
+29,2023-12-13,CUST858,Male,38,Clothing,T-Shirt,2,20,40
+278,2023-12-14,CUST558,Female,40,Clothing,T-Shirt,4,20,80
+306,2023-12-14,CUST661,Male,36,Electronics,Phone Case,1,12,12
+263,2023-12-14,CUST283,Male,39,Electronics,Headphones,3,80,240
+777,2023-12-15,CUST101,Male,49,Beauty,Face Cream,4,35,140
+412,2023-12-15,CUST046,Male,55,Clothing,Jeans,2,60,120
+217,2023-12-16,CUST835,Female,48,Electronics,Power Bank,1,40,40
+657,2023-12-16,CUST644,Male,18,Electronics,Power Bank,4,40,160
+241,2023-12-17,CUST182,Female,64,Clothing,Sneakers,4,90,360
+371,2023-12-17,CUST589,Male,44,Beauty,Face Cream,1,35,35
+424,2023-12-17,CUST265,Female,64,Clothing,Sneakers,3,90,270
+612,2023-12-18,CUST439,Male,53,Clothing,Jacket,2,150,300
+160,2023-12-18,CUST483,Male,41,Clothing,Jeans,1,60,60
+176,2023-12-18,CUST820,Male,49,Electronics,Power Bank,3,40,120
+561,2023-12-18,CUST382,Male,48,Clothing,Jacket,2,150,300
+707,2023-12-19,CUST762,Male,46,Clothing,T-Shirt,2,20,40
+249,2023-12-20,CUST568,Male,45,Electronics,Power Bank,3,40,120
+150,2023-12-20,CUST422,Male,44,Clothing,T-Shirt,2,20,40
+656,2023-12-20,CUST083,Female,35,Beauty,Shampoo,2,15,30
+626,2023-12-20,CUST304,Female,42,Clothing,T-Shirt,4,20,80
+976,2023-12-20,CUST253,Male,47,Electronics,Power Bank,4,40,160
+510,2023-12-21,CUST164,Female,51,Clothing,Jacket,1,150,150
+525,2023-12-21,CUST052,Female,50,Beauty,Perfume,4,120,480
+304,2023-12-21,CUST434,Female,49,Clothing,Jacket,2,150,300
+576,2023-12-22,CUST714,Female,34,Electronics,Headphones,2,80,160
+221,2023-12-22,CUST145,Female,18,Beauty,Shampoo,3,15,45
+794,2023-12-22,CUST278,Female,52,Electronics,Phone Case,3,12,36
+583,2023-12-23,CUST251,Female,51,Electronics,Smartwatch,4,250,1000
+362,2023-12-23,CUST510,Male,54,Clothing,Jacket,2,150,300
+450,2023-12-23,CUST804,Male,34,Clothing,Jacket,3,150,450
+741,2023-12-23,CUST743,Male,36,Beauty,Shampoo,2,15,30
+620,2023-12-24,CUST817,Female,59,Electronics,Headphones,1,80,80
+739,2023-12-24,CUST441,Female,45,Clothing,Jeans,4,60,240
+198,2023-12-24,CUST589,Male,42,Beauty,Perfume,4,120,480
+1,2023-12-24,CUST395,Female,53,Electronics,Phone Case,1,12,12
+238,2023-12-24,CUST551,Male,47,Electronics,Power Bank,1,40,40
+234,2023-12-24,CUST085,Female,53,Electronics,Headphones,4,80,320
+895,2023-12-25,CUST410,Female,28,Beauty,Lipstick,2,25,50
+763,2023-12-25,CUST448,Female,46,Beauty,Perfume,1,120,120
+780,2023-12-25,CUST361,Male,37,Electronics,Smartwatch,4,250,1000
+180,2023-12-25,CUST220,Female,48,Clothing,Sneakers,4,90,360
+761,2023-12-26,CUST068,Female,44,Clothing,Jacket,4,150,600
+838,2023-12-26,CUST900,Male,56,Beauty,Face Cream,1,35,35
+74,2023-12-26,CUST662,Male,36,Beauty,Perfume,3,120,360
+185,2023-12-26,CUST139,Male,64,Beauty,Perfume,4,120,480
+480,2023-12-26,CUST848,Male,41,Beauty,Lipstick,1,25,25
+469,2023-12-26,CUST260,Female,52,Electronics,Power Bank,4,40,160
+822,2023-12-26,CUST623,Male,23,Electronics,Phone Case,1,12,12
+311,2023-12-27,CUST750,Male,52,Clothing,Jacket,4,150,600
+527,2023-12-27,CUST544,Female,32,Beauty,Perfume,3,120,360
+130,2023-12-27,CUST229,Female,27,Electronics,Smartwatch,3,250,750
+283,2023-12-28,CUST886,Male,39,Electronics,Headphones,2,80,160
+398,2023-12-29,CUST681,Male,38,Clothing,Jeans,3,60,180
+197,2023-12-29,CUST159,Male,54,Beauty,Lipstick,2,25,50
+712,2023-12-30,CUST807,Male,36,Beauty,Face Cream,1,35,35
+245,2023-12-30,CUST448,Female,39,Beauty,Shampoo,2,15,30
+991,2023-12-30,CUST720,Male,30,Clothing,Jacket,3,150,450
+959,2023-12-30,CUST495,Female,49,Electronics,Phone Case,4,12,48
+309,2023-12-30,CUST259,Male,43,Beauty,Shampoo,3,15,45
+350,2023-12-30,CUST844,Female,33,Electronics,Power Bank,3,40,120
+440,2023-12-30,CUST657,Female,49,Electronics,Smartwatch,4,250,1000
+184,2023-12-31,CUST125,Female,26,Electronics,Headphones,2,80,160
+308,2023-12-31,CUST816,Female,41,Beauty,Face Cream,4,35,140
+482,2023-12-31,CUST379,Male,48,Clothing,Jacket,1,150,150
+465,2023-12-31,CUST565,Male,28,Clothing,Jacket,4,150,600
+709,2023-12-31,CUST381,Female,48,Clothing,Jeans,4,60,240
+209,2023-12-31,CUST768,Female,57,Beauty,Face Cream,3,35,105
